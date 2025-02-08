@@ -7,7 +7,7 @@ name = "firsttest"
 description = "Auto sample from data images and video"
 authors = ["Kab Seok Kang"]
 readme = "README.md"
-packages = [{include = "auto_sampler"}]
+packages = [{include = "firsttest"}]
 repository = "https://github.com/kangkabseok2021/FirstTest"
 version = "0.0.0"
 
